@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Fractal Forest
+title: Fractal Forest Illustrated Story
 author: Damian Kagenaar
 categories: comics
 tags:
-  - documentation
-  - sample
-image: "![[walk.jpg]]"
+image: /assets/img/walk.jpg
 ---
 <style>
   html, body {

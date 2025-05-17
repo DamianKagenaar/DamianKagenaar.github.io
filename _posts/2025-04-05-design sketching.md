@@ -1,25 +1,34 @@
 ---
 layout: post
-title: Supernatural Market
+title: Illustrations
 author: Damian Kagenaar
 categories: Illustrations
 tags: 
-image: "![[Design Sketching.jpg]]"
+image: design_sketching/thumbnail.jpg
 ---
-
-![[paccafe.jpg]]
-![[pimped (1).jpg]]
-![[button (1).jpg]]
-![[camera (1).jpg]]
-![[chrome.jpg]]
-![[ds1 13.jpg]]
-![[favorites (1).jpg]]
-![[favorites (3).jpg]]
-![[object (3).jpg]]
-![[object (1).jpg]]
-![[root.jpg]]
-![[favorites (2).jpg]]
-![[objects (1).jpg]]
-![[camera (2).jpg]]
-
-![[camera (3).jpg]]
+![Illustration](<../assets/img/design_sketching/paccafe.jpg>) 
+![Illustration](<../assets/img/design_sketching/camera (1).jpg>) 
+![Illustration](<../assets/img/design_sketching/button (1).jpg>) 
+![Illustration](<../assets/img/design_sketching/cannon (1).jpg>) 
+![Illustration](<../assets/img/design_sketching/cannon (2).jpg>) 
+![Illustration](<../assets/img/design_sketching/chrome.jpg>) 
+![Illustration](<../assets/img/design_sketching/ds1 13.jpg>) 
+![Illustration](<../assets/img/design_sketching/favorites (1).jpg>) 
+![Illustration](<../assets/img/design_sketching/favorites (3).jpg>) 
+![Illustration](<../assets/img/design_sketching/favorites (2).jpg>) 
+![Illustration](<../assets/img/design_sketching/object (1).jpg>) 
+![Illustration](<../assets/img/design_sketching/root.jpg>)
+![Illustration](<../assets/img/design_sketching/object (3).jpg>) 
+![Illustration](<../assets/img/design_sketching/objects (1).jpg>) 
+![Illustration](<../assets/img/design_sketching/pimped (1).jpg>) 
+![Illustration](<../assets/img/design_sketching/camera (2).jpg>) 
+![Illustration](<../assets/img/design_sketching/camera (3).jpg>)
+![car](<../assets/img/design_sketching/cars/car (3).jpg>) 
+![car](<../assets/img/design_sketching/cars/car (5).jpg>) 
+![car](<../assets/img/design_sketching/cars/car (6).jpg>) 
+![car](<../assets/img/design_sketching/cars/car (7).jpg>) 
+![car](<../assets/img/design_sketching/cars/car (9).jpg>)  
+![car](<../assets/img/design_sketching/cars/ship (5).jpg>) 
+![car](<../assets/img/design_sketching/cars/ship(2).jpg>)
+![car](<../assets/img/design_sketching/cars/ship (3).jpg>)
+![car](<../assets/img/design_sketching/cars/ship (1).jpg>) 

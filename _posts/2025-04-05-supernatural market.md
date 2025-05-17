@@ -3,8 +3,8 @@ layout: post
 title: "Supernatural Market"
 author: "Damian Kagenaar"
 categories: comics
-tags: [documentation,sample]
-image: img/monochrome/pirates.png
+tags: 
+image: img/ink/pirates.png
 ---
 
 <style>
