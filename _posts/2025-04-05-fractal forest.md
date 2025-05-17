@@ -4,7 +4,7 @@ title: Fractal Forest Illustrated Story
 author: Damian Kagenaar
 categories: comics
 tags:
-image: /assets/img/walk.jpg
+image: walk.jpg
 ---
 <style>
   html, body {

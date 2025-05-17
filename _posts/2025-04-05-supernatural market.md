@@ -4,7 +4,7 @@ title: "Supernatural Market"
 author: "Damian Kagenaar"
 categories: comics
 tags: 
-image: img/ink/pirates.png
+image: supernaturalmarket.jpg
 ---
 
 <style>
