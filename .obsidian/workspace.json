@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c9e383869dbf561a",
+        "id": "a73c1aee611ce1c2",
         "type": "tabs",
         "children": [
           {
-            "id": "948e238cbf6f5a32",
+            "id": "696510093d99dd92",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "948e238cbf6f5a32",
+  "active": "696510093d99dd92",
   "lastOpenFiles": [
-    "_posts/2025-04-05-design sketching.md",
+    "assets/img/Design.md",
     "_posts/2025-04-05-design sketching 1.md",
+    "_posts/2025-04-05-design sketching.md",
     "_posts/2025-04-05-neander.md",
     "_posts/2025-04-05-fractal forest.md",
     "assets/img/design Sketching/cannon (2).jpg"
