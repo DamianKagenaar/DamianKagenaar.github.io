@@ -3,7 +3,7 @@ layout: post
 title: Illustrations
 author: Damian Kagenaar
 categories: Illustrations
-tags: 
+tags: Illustrations
 image: design_sketching/thumbnail.jpg
 ---
 ![Illustration](<../assets/img/design_sketching/paccafe.jpg>) 

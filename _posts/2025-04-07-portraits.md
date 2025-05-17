@@ -3,8 +3,8 @@ layout: post
 title: Marker Illustrations
 author: Damian Kagenaar
 categories: Illustrations
-tags: 
-image: portraits/koning sultana.jpg
+tags: Illustrations
+image: portraits/koning_sultana.jpg
 ---
 ![portraits](../assets/img/portraits/gara.jpg)
 ![portraits](../assets/img/portraits/3people.jpg) 
@@ -13,3 +13,4 @@ image: portraits/koning sultana.jpg
 ![portraits](../assets/img/portraits/dolphin.jpg) 
 ![portraits](../assets/img/portraits/bird.jpg) 
 ![portraits](../assets/img/portraits/20220418_144310.jpg) 
+![portraits](../assets/img/portraits/heinz.jpg)
