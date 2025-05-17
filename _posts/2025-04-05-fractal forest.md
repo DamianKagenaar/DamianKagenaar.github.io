@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Fractal Forest"
-author: "Damian Kagenaar"
+title: Fractal Forest
+author: Damian Kagenaar
 categories: comics
-tags: [documentation,sample]
-image: img/monochrome/pirates.png
+tags:
+  - documentation
+  - sample
+image: "![[walk.jpg]]"
 ---
-
 <style>
   html, body {
     margin: 0;
