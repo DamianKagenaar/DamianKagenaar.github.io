@@ -54,3 +54,18 @@
 .pagination-active:hover {
   background-color: #e0e0e0;
 }
+
+/* Add to your CSS file */
+.intro-container {
+  display: flex;
+  align-items: left;
+  gap: 1.5rem; /* space between text and image */
+  margin-bottom: 2rem;
+}
+
+.profile {
+  width: 80px;   /* adjust size as needed */
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+}

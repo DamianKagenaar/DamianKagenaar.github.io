@@ -2,8 +2,14 @@
 layout: default
 title: Home
 ---
-<img src="{{ site.github.url }}/assets/img/profile.jpeg" alt="{Profile picture}" class="profile" />
-test text
+
+
+<div class="intro-container">
+  <div class="intro-text">
+    test text diyshfiudshfohdsiuoghdsiohgidsohgoidshgiohdiogdshgods jgdsiohgiohgdshogihdsioghsdoi ghdsiohgiodsh
+  </div>
+  <img src="{{ site.github.url }}/assets/img/profile.jpeg" alt="Profile picture" class="profile" />
+</div>
 {% for post in paginator.posts %}
   {% include featured-post.html %}
 {% endfor %}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marker Illustrations
+title: Animations
 author: Damian Kagenaar
 categories: Illustrations
 tags: Illustrations
