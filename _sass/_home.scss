@@ -55,17 +55,16 @@
   background-color: #e0e0e0;
 }
 
-/* Add to your CSS file */
 .intro-container {
-  display: flex;
-  align-items: left;
-  gap: 1.5rem; /* space between text and image */
+  overflow: auto; /* ensures container wraps floated elements */
   margin-bottom: 2rem;
 }
 
 .profile {
-  width: 80px;   /* adjust size as needed */
-  height: 80px;
+  float: right;
+  width: 320px;   /* increase size as needed */
+  height: 320px;
+  margin-left: 1.5rem;
   border-radius: 50%;
   object-fit: cover;
 }
