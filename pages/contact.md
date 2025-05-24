@@ -3,5 +3,4 @@ layout: page
 title: Contact
 permalink: /contact
 ---
-
-Feel free to send emails about anything (commisions, job offers, advice, pictures of your cat, etc.) to damiankagenaar@gmail.com
+Voel je vrij om e-mails te sturen over van alles (opdrachten, baanaanbiedingen, advies, foto's van je kat, enz.) naar damiankagenaar@gmail.com

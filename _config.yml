@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Damian's Art"
-description:	       "a place to see all art Damian has made"
+description:	       "Voel je vrij om e-mails te sturen over van alles (opdrachten, baanaanbiedingen, advies, foto's van je kat, enz.) naar damiankagenaar@gmail.com"
 author:              "Damian Kagenaar"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
