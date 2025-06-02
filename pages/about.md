@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 ![profile](../assets/img/profile.jpeg) 
-Hallo, Ik ben Damian. 25 jaar en woon in Enschede. Ik probeer professioneel striptekenaar te worden. Ben van plaatjes dan van woorden.
+Hallo, ik ben Damian, 25 jaar en woonachtig in Enschede. Momenteel ben ik bezig met afstuderen aan de studie Interactie Technologie en werk ik aan mijn droom om professioneel striptekenaar te worden. Heb je tips, wil je meedenken of gewoon iets vragen? Neem gerust contact op!
